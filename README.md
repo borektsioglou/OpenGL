@@ -2,13 +2,19 @@
 This is a spacecraft using openGL
 
 ## Keys
-W,S,A,D: Spacecraft movement"\n"
-1,2: Camera movement around the x axis"\n"
-3,4: Camera movement around the y axis"\n"
-5,6: Camera movement around the z axis"\n"
-P: Pause"\n"
-R: Reset"\n"
-Esc: Exit"\n"
+W,S,A,D: Spacecraft movement
+###
+1,2: Camera movement around the x axis
+###
+3,4: Camera movement around the y axis
+###
+5,6: Camera movement around the z axis
+###
+P: Pause
+###
+R: Reset
+###
+Esc: Exit
 
 The aim is to avoid collision with the asteroids, otherwise you will crash and you will lose
 
